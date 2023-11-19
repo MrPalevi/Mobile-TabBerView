@@ -1,11 +1,22 @@
 # tabs_app
 
-A new Flutter project.
+Ini adalah Project TabBerView
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ - clone project
+ - (Optional) Jika Error lakukan 'flutter pub get' di dalam terminal project
+ - jalankan printah 'flutter run' untuk menjalankan Project
+ - done!
 
+
+## Notes
+
+  - Ini adalah contoh Project TabBerView Sederhana
+  - silahkan kereasikan sesuai kebutuhan
+  - semua class masih berada di 1 file MyHomePage.dart silahkan lakukan perubahan di dalam file ini
+    
+   
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
