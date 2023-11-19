@@ -16,23 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key});
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Home Screen'),
-      ),
-      body: const Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Text('Ini adalah Home Sreen'),
-          SizedBox(height: 20),
-          MyReusableWidget(text: 'Hello from Home Screen!'),
-        ],
-      ),
-    );
-  }
-}
